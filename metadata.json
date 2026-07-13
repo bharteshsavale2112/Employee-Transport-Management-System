@@ -1,0 +1,6 @@
+{
+  "name": "Shared Support Bus Pass System",
+  "description": "A comprehensive bus pass management system with admin, employee, and driver panels, featuring pass request, verification, and Excel data simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
